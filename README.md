@@ -1,5 +1,6 @@
 # Comcast-Telecommunication
 Conducted a comprehensive analysis of Comcast telecommunications complaints using data visualization and statistical methods.Here’s a quick overview of what each task involves:
+
 Task 1: Trend Chart for Complaints at Monthly and Daily Levels
    - Created visualizations to track the number of complaints received over time, both monthly and daily, to identify any trends or patterns.
 Task 2: Frequency Table for Complaint Types
